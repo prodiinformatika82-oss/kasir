@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("This is a title")
-st.title("_Streamlit_ is :blue[cool] :sunglasses:")
+st.title("KASIR AICE MARKET")
+st.title("_dapatkan kenyaman_  :blue[Berbelanja] :sunglasses:")
 import streamlit as st
 
