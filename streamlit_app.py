@@ -1,6 +1,7 @@
 import streamlit as st
+import math
 
-st.title("KASIR AICE MARKET")
-st.title("_dapatkan kenyamanan_ anda :blue[Berbelanja] :sunglasses:")
+st.title("menghitung :red[volume tabung] :rocket:")
+r=st.number_input("masukan jari-jari(cm): ",0)
 
 
